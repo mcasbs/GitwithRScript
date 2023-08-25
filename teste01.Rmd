@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Testando git-Rstudio - 01
+### Testando git-Rstudio - 01 - Acrescentado remotamente
 
 ## R Markdown
 
