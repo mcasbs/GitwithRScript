@@ -1,3 +1,0 @@
-Primeiro arquivo (teste 1 - primeiro commit)
-teste 2 (segundo commit)
-teste 3 (terceiro commit)
